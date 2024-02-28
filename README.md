@@ -41,7 +41,7 @@ Seperate boards for both players and using end turn swaps between the boards.
 
 
 <*How To Compile Code*>
-If you extract hwx.jar you will find the directory bens_battleship. My code is all in the package bens_battleship.
+The jar file is runnable so you can run the jar file or if you extract hwx.jar you will find the directory bens_battleship. My code is all in the package bens_battleship.
 So to run the code simply run the following command from the directory containing bens_battleship:
 	
 java bens_battleship/BattleShip
